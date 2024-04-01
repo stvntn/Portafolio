@@ -2217,7 +2217,7 @@ input, select, textarea {
 		}
 
 		
-		@media (max-width: 425px) {
+		@media (max-width: 900px) {
 			.features {
 				display: flex;
 				flex-wrap: wrap;
